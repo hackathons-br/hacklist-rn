@@ -6,7 +6,6 @@
 - [Simplez](http://blog.simplez.com.br/o-que-e-hackathon/)
 - [MJV](https://blog.mjv.com.br/ideias/afinal-o-que-e-hackathon)
 - [Significados.com.br](https://www.significados.com.br/hackathon/)
-- [Dissertação de Mestrado em Elaboração](https://sigaa.ufrn.br/sigaa/public/programa/noticias_desc.jsf?lc=pt_BR&id=73&noticia=134785430)
 
 # 2015
 | Início | Fim | Entidade promotora | Entidade realizadora | Site |
