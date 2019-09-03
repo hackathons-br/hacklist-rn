@@ -35,6 +35,7 @@
 | 2018-08-18 | 2018-08-19 | Loucos Por Coxinha | SEBRAE RN | Links [1](https://www.sympla.com.br/coxinthon---hackathon-loucos-por-coxinha__333868#info), [2](https://drive.google.com/file/d/1d8k9TSm45wkvGKithz2v6VGOEhOEtrvS/view), [3](http://www.rn.agenciasebrae.com.br/sites/asn/uf/RN/franquia-potiguar-realiza-evento-para-estimular-a-inovacao,b678ded4e2345610VgnVCM1000004c00210aRCRD) e [4](http://www.tribunadonorte.com.br/noticia/empresa-realizara-coxinthon/420992)|
 | 2018-09-18 | 2018-09-21 | IMD-UFRN | IMD-UFRN | Link [1](https://sigaa.ufrn.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/91807756) e [2](https://portal.imd.ufrn.br/portal/noticias/5491/n%C3%BAcleo-de-pesquisa-e-inova%C3%A7%C3%A3o-em-ti-promove-seu-iv-workshop)|
 | 2018-09-19 | 2018-09-20 | IEEE WiE UFRN | IMD-UFRN (nPITI) | Link [1](http://mulheresnastem.ufrn.br/wieday2018/) e [2](http://mulheresnastem.ufrn.br/wieday2018/files/EditalHackathonWomeninSmartCities.pdf)|
+| 2018-09-27 | 2018-09-28 | UnP | UnP | [Link](https://unp.br/noticias/alunos-participam-do-i-congresso-de-comunicacao-da-unp/)|
 | 2018-11-12 | 2018-11-14 | Orto-Rio | DCA-UFRN | [Link](https://www.dca.ufrn.br/~secem/secem2018)|
 
 # 2019
@@ -42,9 +43,10 @@
 | ------ | --- | ------------------ | -------------------- | ---- |
 | 2019-01-25 | 2019-01-27 | Global Game Jam | SEBRAE RN | [Link](https://www.sympla.com.br/global-game-jam-2019---pong__405900#info)|
 | 2019-05-04 | 2019-05-05 | CDL Jovem Natal | SEBRAE RN | [Link](https://www.cdljovemnatal.com.br/eventos-e-inscricoes/visualizar.php?id_produto=28)|
+| 2019-05-24 | 2019-05-24 | UFERSA | UFERSA | Link [1](https://ecop2019.com.br/hackathon/) e [2](http://portal.ifrn.edu.br/campus/reitoria/noticias/equipe-4tran-do-campus-pau-dos-ferros-vence-1o-hackathon)|
 | 2019-06-07 | 2019-06-09 | Flourish | SEBRAE RN | [Link](https://www.outgo.com.br/hackathoninclusaofinanceiraflourish)|
 | 2019-07-18 | 2019-07-20 | MP-RN | IMD-UFRN | [Link](https://hackfest.imd.ufrn.br/)
-| 2019-08-05 | 2019-08-07 | SEBRAE RN | ENEL<br>(Parque Aristófanes Fernandes) | [Link](http://www.tribunadonorte.com.br/noticia/produtores-debatem-desafios-do-setor/456036)|
+| 2019-08-05 | 2019-08-07 | SEBRAE RN | ENEL<br>(Parque Aristófanes Fernandes) | Link [1](http://www.tribunadonorte.com.br/noticia/produtores-debatem-desafios-do-setor/456036), [2](http://www.rn.agenciasebrae.com.br/sites/asn/uf/RN/vacaton-elege-melhores-ideias-para-a-cadeia-produtiva-do-leite,0bba707cb6d6c610VgnVCM1000004c00210aRCRD) e [3](https://engsoftwarepaudosferros.ufersa.edu.br/2019/08/18/alunos-de-pau-dos-ferros-representam-a-ufersa-em-hackathon/)|
 | 2019-08-16 | 2019-08-18 | Justiça Federal RN | Hacka Space<br>Campus Party Natal<br>(Centro de Convenções) | [Link](https://hackathonjusticafederalnorn.splashthat.com/) |
 | 2019-08-16 | 2019-08-18 | Prefeitura de Natal| Hacka Space<br>Campus Party Natal<br>(Centro de Convenções) | Link [1](https://hackathonhackabeach.splashthat.com/) e [2](https://natal.rn.gov.br/noticia/ntc-31050.html)|
 | 2019-08-16 | 2019-08-18 | Governo do RN | Hacka Space<br>Campus Party Natal<br>(Centro de Convenções) | [Link](https://hackathonmicrolearning.splashthat.com/)|
