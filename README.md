@@ -1,11 +1,13 @@
-# Sobre Hackathons
-- [Wikipedia EN](https://en.wikipedia.org/wiki/Hackathon)
-- [Wikipedia PT-BR](https://pt.wikipedia.org/wiki/Hackathon)
-- [Campus Party BR](https://brasil.campus-party.org/hackathon/)
-- [Meio & Mensagem](https://www.meioemensagem.com.br/home/comunicacao/2018/01/30/hackathons-ganham-forca-como-aliados-da-criacao.html)
-- [Simplez](http://blog.simplez.com.br/o-que-e-hackathon/)
-- [MJV](https://blog.mjv.com.br/ideias/afinal-o-que-e-hackathon)
-- [Significados.com.br](https://www.significados.com.br/hackathon/)
+# Sumário
+- **Hackathons no RN, por ano**
+  - [2015](#2015)
+  - [2016](#2016)
+  - [2017](#2017)
+  - [2018](#2018)
+  - [2019](#2019)
+- **[Outras Referências](#outras-referências)**
+- **[Ferramentas e serviços para Hackathons](#ferramentas-e-serviços-para-hackathons)**
+- **[Links explicativos](#links-explicativos)**
 
 # 2015
 | Início | Fim | Promotora | Realizadora | Nome | Links |
@@ -52,3 +54,19 @@
 | 23/08 | 25/08 | Neoenergia | IMD-UFRN | Hackathon Neoenergia UFRN | [1](https://imd.ufrn.br/portal/noticias/5761/prazo-de-inscri%C3%A7%C3%B5es-do-hackathon-neoenergia-%C3%A9-prorrogado-para-quinta-feira-), [2](https://drive.google.com/file/d/1O7Mu85F7lK0mluvTpkoYbAqt-ikL_9Ye/view) e [3](https://www.neoenergia.com/pt-br/sustentabilidade/inovacao/Paginas/segundo-hackathon.aspx) |
 | 30/08 | 01/09 | ESIG | SEBRAE RN | HackEDU ESIG | [1](http://esig.com.br.pages.services/hackedu/)|
 | 12/09 | 13/09 | CERES UFRN | CERES UFRN | I Hackathon do CERES - Hack 2019 | [1](http://sigeventos.ufrn.br/evento/hack2019), [2](https://ufrn.br/imprensa/noticias/28328/inscricoes-abertas-para-o-1o-hackathon-do-ceres-no-campus-caico)|
+
+# Outras Referências
+- [Campus Party BR](https://brasil.campus-party.org/hackathon/)
+- [Rede Globo](https://hackathon.redeglobo.com.br/)
+
+# Ferramentas e serviços para hackathons
+- [Repos no GH sobre Hackathon](https://github.com/topics/hackathon)
+- [Shawee: Plataforma de Gestão de Hackathons](https://shawee.io/)
+
+# Links explicativos
+- [Wikipedia EN](https://en.wikipedia.org/wiki/Hackathon)
+- [Wikipedia PT-BR](https://pt.wikipedia.org/wiki/Hackathon)
+- [Meio & Mensagem](https://www.meioemensagem.com.br/home/comunicacao/2018/01/30/hackathons-ganham-forca-como-aliados-da-criacao.html)
+- [Simplez](http://blog.simplez.com.br/o-que-e-hackathon/)
+- [MJV](https://blog.mjv.com.br/ideias/afinal-o-que-e-hackathon)
+- [Significados.com.br](https://www.significados.com.br/hackathon/)
