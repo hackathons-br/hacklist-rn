@@ -61,7 +61,9 @@
 
 # Ferramentas e serviços para hackathons
 - [Repos no GH sobre Hackathon](https://github.com/topics/hackathon)
-- [Shawee: Plataforma de Gestão de Hackathons](https://shawee.io/)
+- Plataforma brasileira de Gestão de Hackathons:
+  - [Site da Shawee](https://shawee.io/)
+  - [Reportagem no PEGN](http://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/noticia/2018/07/hackathons-startup-ajuda-promover-e-organizar-maratonas-tecnologicas.html)
 
 # Links explicativos
 - [Wikipedia EN](https://en.wikipedia.org/wiki/Hackathon)
