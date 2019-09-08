@@ -1,13 +1,13 @@
 # Sumário
-- **Hackathons no RN, por ano**
+- Hackathons no RN, por ano
   - [2015](#2015)
   - [2016](#2016)
   - [2017](#2017)
   - [2018](#2018)
   - [2019](#2019)
-- **[Outras Referências](#outras-referências)**
-- **[Ferramentas e serviços para Hackathons](#ferramentas-e-serviços-para-hackathons)**
-- **[Links explicativos](#links-explicativos)**
+- [Outras Referências](#outras-referências)
+- [Ferramentas e serviços para Hackathons](#ferramentas-e-serviços-para-hackathons)
+- [Links explicativos](#links-explicativos)
 
 # 2015
 | Início | Fim | Promotora | Realizadora | Nome | Links |
@@ -57,19 +57,33 @@
 
 # Outras Referências
 - [Campus Party BR](https://brasil.campus-party.org/hackathon/)
-- [Rede Globo](https://hackathon.redeglobo.com.br/)
-- [Uber 2018](https://www.uber.com/pt-BR/newsroom/uber-hack-o-hackathon-da-mobilidade/)
-- **Uber 2019**
-  - [Site da edição do Hackathon](https://www.uber.com/br/pt-br/u/uberhack/)
-  - [Regulamento](https://storage.googleapis.com/shawee-production.appspot.com/shawee/commissionregulation/769deffb-5873-457a-ac33-915048169751.pdf)
-  - [Blog da PUCRS - Post 1](http://www.pucrs.br/tecnopuc/2019/05/08/tecnopuc-recebe-hackathon-promovido-pela-uber/)
-  - [Blog da PUCRS - Post 2](http://www.pucrs.br/tecnopuc/2019/05/31/os-bastidores-do-hackathon-da-uber/)
+- Rede Globo:
+  - [Site do Hackathon](https://hackathon.redeglobo.com.br/)
+  - [Meio & Mensagem - post 1](https://www.meioemensagem.com.br/home/midia/2016/04/13/app-que-transforma-noticia-em-animacao-vence-hackathon-da-globo.html)
+  - [Meio & Mensagem - post 2](https://www.meioemensagem.com.br/home/midia/2019/04/18/maratonas-hackers-influenciam-dinamicas-criativas-da-globo.html)  
+- Uber
+  - [2018](https://www.uber.com/pt-BR/newsroom/uber-hack-o-hackathon-da-mobilidade/)
+  - 2019
+    - [Site da edição do Hackathon](https://www.uber.com/br/pt-br/u/uberhack/)
+    - [Regulamento](https://storage.googleapis.com/shawee-production.appspot.com/shawee/commissionregulation/769deffb-5873-457a-ac33-915048169751.pdf)
+    - [Blog da PUCRS - Post 1](http://www.pucrs.br/tecnopuc/2019/05/08/tecnopuc-recebe-hackathon-promovido-pela-uber/)
+    - [Blog da PUCRS - Post 2](http://www.pucrs.br/tecnopuc/2019/05/31/os-bastidores-do-hackathon-da-uber/)
+- IBM - BlueHack
+  - [Site](https://www.ibm.com/events/br/pt/ibmclouddiscovery/bluehack/)
+  - [Meio & Mensagem - post 1](https://www.meioemensagem.com.br/home/opiniao/2016/04/22/um-fim-de-semana-no-maior-hackathon-do-brasil.html)
+  - [Meio & Mensagem - post 2](https://www.meioemensagem.com.br/home/opiniao/2016/11/08/bluehack-o-maior-hackathon-do-brasil-em-2016.html)
+  - [Vídeo no Youtube](https://youtu.be/hxKNVNLfekc)
+- [Natura](https://www.meioemensagem.com.br/home/ultimas-noticias/2017/03/31/natura-e-microsoft-promovem-hackathon.html)
 
 # Ferramentas e serviços para hackathons
 - [Repos no GH sobre Hackathon](https://github.com/topics/hackathon)
 - Startup brasileira de Gestão de Hackathons:
   - [Plataforma da Shawee](https://shawee.io/)
   - [Reportagem no PEGN](http://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/noticia/2018/07/hackathons-startup-ajuda-promover-e-organizar-maratonas-tecnologicas.html)
+  - [Página no LinkedIn](https://www.linkedin.com/company/shawee/)
+  - [Perfil no Instagram](https://www.instagram.com/shawee.io/)
+  - [Blog](https://blog.shawee.io/pt/)
+
 - **Empresa organizadora - AngelHack**
   - [Site](https://angelhack.com/)
   - [Page brasileira no Facebook](https://www.facebook.com/angelhackbr/)
@@ -77,7 +91,8 @@
 # Links explicativos
 - [Wikipedia EN](https://en.wikipedia.org/wiki/Hackathon)
 - [Wikipedia PT-BR](https://pt.wikipedia.org/wiki/Hackathon)
-- [Meio & Mensagem](https://www.meioemensagem.com.br/home/comunicacao/2018/01/30/hackathons-ganham-forca-como-aliados-da-criacao.html)
+- [Meio & Mensagem - post sobre hackathons na área criativa](https://www.meioemensagem.com.br/home/comunicacao/2018/01/30/hackathons-ganham-forca-como-aliados-da-criacao.html)
+- [Meio & Mensagem - post sobre benefícios de hackathons](https://www.meioemensagem.com.br/home/opiniao/2016/07/04/tres-coisas-que-os-hackathons-ensinam.html)
 - [Simplez](http://blog.simplez.com.br/o-que-e-hackathon/)
 - [MJV](https://blog.mjv.com.br/ideias/afinal-o-que-e-hackathon)
 - [Significados.com.br](https://www.significados.com.br/hackathon/)
