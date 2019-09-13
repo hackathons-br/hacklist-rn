@@ -1,4 +1,5 @@
 # Sumário
+- [Próximos hackathons](#próximos-hackathons)
 - Hackathons no RN, por ano
   - [2015](#2015)
   - [2016](#2016)
@@ -8,6 +9,9 @@
 - [Outras Referências](#outras-referências)
 - [Ferramentas e serviços para Hackathons](#ferramentas-e-serviços-para-hackathons)
 - [Links explicativos](#links-explicativos)
+
+# Próximos Hackathons
+Sem previsão, por enquanto.
 
 # 2015
 | Início | Fim | Promotora | Realizadora | Nome | Links |
@@ -84,7 +88,7 @@
   - [Perfil no Instagram](https://www.instagram.com/shawee.io/)
   - [Blog](https://blog.shawee.io/pt/)
 
-- **Empresa organizadora - AngelHack**
+- Empresa organizadora - AngelHack
   - [Site](https://angelhack.com/)
   - [Page brasileira no Facebook](https://www.facebook.com/angelhackbr/)
 
