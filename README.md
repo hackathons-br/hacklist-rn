@@ -7,8 +7,6 @@
   - [2018](#2018)
   - [2019](#2019)
 - [Outras Referências](#outras-referências)
-- [Ferramentas e serviços para Hackathons](#ferramentas-e-serviços-para-hackathons)
-- [Links explicativos](#links-explicativos)
 
 # Próximos Hackathons
 Sem previsão, por enquanto.
