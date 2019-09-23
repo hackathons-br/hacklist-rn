@@ -10,11 +10,6 @@
 # Próximos Hackathons
 Sem previsão, por enquanto.
 
-# 2016
-| Início | Fim | Promotora | Realizadora | Nome | Links |
-| ------ |---- | --------- | ----------- | ---- | ----- |
-| 16/03 | 20/03 | IMD-UFRN | I SNNB (evento) | Maratona de Bioinformática | [1](http://www.i2bio.org/eventos/i-simposio-norte-nordeste-de-bioinformatica-a-supercomputacao-na-bioinformatica/), [2](http://web.archive.org/web/20160405214118/bioinformatica.imd.ufrn.br/snnb/listaH.php) e [3](https://www.imd.ufrn.br/portal/noticias/2073/simp%C3%B3sio-norte-nordeste-de-bioinform%C3%A1tica-inaugura-supercomputador-no-imd)|
-
 # 2017
 | Início | Fim | Promotora | Realizadora | Nome | Links |
 | ------ |---- | --------- | ----------- | ---- | ----- |
