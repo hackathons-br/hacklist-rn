@@ -10,11 +10,6 @@
 # Próximos Hackathons
 Sem previsão, por enquanto.
 
-# 2015
-| Início | Fim | Promotora | Realizadora | Nome | Links |
-| ------ |---- | --------- | ----------- | ---- | ----- |
-| 04/07 | 05/07 | Comunidade NE JS | IMD-UFRN | Hackathon JavaScript | [1](http://nejs.github.io/hackathon2015/), [2](https://github.com/nejs/hackathon2015-docs) e [3](https://www.imd.ufrn.br/portal/noticias/1156/imd-ser%C3%A1-sede-de-maratona-de-programa%C3%A7%C3%A3o-em-javascript)|
-
 # 2016
 | Início | Fim | Promotora | Realizadora | Nome | Links |
 | ------ |---- | --------- | ----------- | ---- | ----- |
