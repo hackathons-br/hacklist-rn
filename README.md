@@ -1,12 +1,14 @@
 # Sumário
 - [Próximos hackathons](#próximos-hackathons)
 - [Hackathons passados em 2019](#2019)
-- [Hackathons passados em outros anos](#outros-anos)
+- [Hackathons passados de outros anos](#outros-anos)
 
 # Próximos Hackathons
 Sem previsão, por enquanto.
 
 # 2019
+Hackathons passados realizados em 2019
+
 | Início | Fim | Promotora | Realizadora | Nome | Links |
 | ------ | --- | --------- | ----------- | ---- | ----- |
 | 25/01 | 27/01 | Global Game Jam | SEBRAE RN | Global Game Jam 2019 - PONG | [1](https://www.sympla.com.br/global-game-jam-2019---pong__405900#info)|
