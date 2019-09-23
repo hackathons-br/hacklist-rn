@@ -1,11 +1,7 @@
 # Sumário
 - [Próximos hackathons](#próximos-hackathons)
-- Hackathons no RN, por ano
-  - [2015](#2015)
-  - [2016](#2016)
-  - [2017](#2017)
-  - [2018](#2018)
-  - [2019](#2019)
+- [Hackathons passados em 2019](#2019)
+- [Hackathons passados em outros anos](#outros-anos)
 
 # Próximos Hackathons
 Sem previsão, por enquanto.
@@ -25,3 +21,10 @@ Sem previsão, por enquanto.
 | 23/08 | 25/08 | Neoenergia | IMD-UFRN | Hackathon Neoenergia UFRN | [1](https://imd.ufrn.br/portal/noticias/5761/prazo-de-inscri%C3%A7%C3%B5es-do-hackathon-neoenergia-%C3%A9-prorrogado-para-quinta-feira-), [2](https://drive.google.com/file/d/1O7Mu85F7lK0mluvTpkoYbAqt-ikL_9Ye/view) e [3](https://www.neoenergia.com/pt-br/sustentabilidade/inovacao/Paginas/segundo-hackathon.aspx) |
 | 30/08 | 01/09 | ESIG | SEBRAE RN | HackEDU ESIG | [1](http://esig.com.br.pages.services/hackedu/), [2](https://youtu.be/AMLABGbMm60), [3](https://youtu.be/QpJg2ikpL-s) e [4](https://youtu.be/qCSP_QwUFaE)|
 | 12/09 | 13/09 | CERES UFRN | CERES UFRN | I Hackathon do CERES - Hack 2019 | [1](http://sigeventos.ufrn.br/evento/hack2019), [2](https://ufrn.br/imprensa/noticias/28328/inscricoes-abertas-para-o-1o-hackathon-do-ceres-no-campus-caico)|
+
+# Outros anos
+Hackathons feitos em outros anos:
+- [2015](2015.md)
+- [2016](2016.md)
+- [2017](2017.md)
+- [2018](2018.md)
