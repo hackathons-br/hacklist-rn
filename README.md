@@ -10,14 +10,6 @@
 # Próximos Hackathons
 Sem previsão, por enquanto.
 
-# 2017
-| Início | Fim | Promotora | Realizadora | Nome | Links |
-| ------ |---- | --------- | ----------- | ---- | ----- |
-| 22/04 | 22/04 | FAPERN | DEP-UFRN | The Mars Hackathon | [1](http://marshackathon.blogspot.com/), [2](http://www.crarn.org.br/novo/noticia_interna.php?id=944#sthash.DGHxAdad.dpbs) e [3](http://www.meioambiente.ufrn.br/?p=40398)|
-| 06/05 | 06/05 | DEART-UFRN | IMD-UFRN | Design Hackathon | [1](https://sigaa.ufrn.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/91804511)|
-| 12/08 | 25/08 | IMD-UFRN | IMD-UFRN | Hackathon da Comunicação Alternativa | [1](https://sigaa.ufrn.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/91805526) e [2](https://hongkong.imd.ufrn.br/filemanagerportal/source/2017/07/Regulamento-Hackathon-CBCA2017.pdf)|
-| 27/10 | 25/11 | UFRN | UFRN | I Hackathon UFRN | [1](http://dados.gov.br/concurso/i-hackathon-ufrn), [2](http://arquivos.info.ufrn.br/arquivos/2017073180a42e45251907e50330cb2a0/Hackathon_UFRN_-_informaes_gerais.pdf), [3](https://portal.imd.ufrn.br/portal/noticias/5243/imd-ser%C3%A1-sede-da-primeira-maratona-de-programa%C3%A7%C3%A3o-da-ufrn-) e [4](http://arquivos.info.ufrn.br/arquivos/20171661156c3d4509984407b5caf71aa/EDITAL_HACKATHON_UFRN-atualizado231017.pdf)|
-
 # 2018
 | Início | Fim | Promotora | Realizadora | Nome | Links |
 | ------ | --- | --------- | ----------- | ---- | ----- |
