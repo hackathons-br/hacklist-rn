@@ -28,7 +28,7 @@ Hackathons passados realizados em 2019
 
 ## Outros anos
 Hackathons feitos em outros anos:
-- [2015](2015.md)
-- [2016](2016.md)
-- [2017](2017.md)
-- [2018](2018.md)
+- [2015](anos-anteriores/2015.md)
+- [2016](anos-anteriores/2016.md)
+- [2017](anos-anteriores/2017.md)
+- [2018](anos-anteriores/2018.md)
