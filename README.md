@@ -1,12 +1,14 @@
-# Sumário
+# Hackathons no RN
+
+## Sumário
 - [Próximos hackathons](#próximos-hackathons)
-- [Hackathons passados em 2019](#2019)
+- [Hackathons passados em 2019](#hackathons-passados-em-2019)
 - [Hackathons passados de outros anos](#outros-anos)
 
-# Próximos Hackathons
+## Próximos Hackathons
 Sem previsão, por enquanto.
 
-# 2019
+## Hackathons passados em 2019
 Hackathons passados realizados em 2019
 
 | Início | Fim | Promotora | Realizadora | Nome | Links |
@@ -24,7 +26,7 @@ Hackathons passados realizados em 2019
 | 30/08 | 01/09 | ESIG | SEBRAE RN | HackEDU ESIG | [1](http://esig.com.br.pages.services/hackedu/), [2](https://youtu.be/AMLABGbMm60), [3](https://youtu.be/QpJg2ikpL-s) e [4](https://youtu.be/qCSP_QwUFaE)|
 | 12/09 | 13/09 | CERES UFRN | CERES UFRN | I Hackathon do CERES - Hack 2019 | [1](http://sigeventos.ufrn.br/evento/hack2019), [2](https://ufrn.br/imprensa/noticias/28328/inscricoes-abertas-para-o-1o-hackathon-do-ceres-no-campus-caico)|
 
-# Outros anos
+## Outros anos
 Hackathons feitos em outros anos:
 - [2015](2015.md)
 - [2016](2016.md)
